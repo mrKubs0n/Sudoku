@@ -80,7 +80,6 @@ def configure_dark_mode(state):
     solve_button.configure(fg_color=dark_bg, text_color=dark_fg)
     generate_button.configure(fg_color=dark_bg, text_color=dark_fg)
     issolved_button.configure(fg_color=dark_bg, text_color=dark_fg)
-    # options_menu.configure(fg_color=dark_bg,text_color=dark_fg)
 
 
 def toggle_dark_mode():
